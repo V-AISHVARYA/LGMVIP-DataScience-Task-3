@@ -14,7 +14,7 @@ Read the Dataset
 Clean the Dataset  
 Display the shape  
 EDA on Song dataset,Member dataset and Training data  
-Display ststistics on Data  
+Display statistics on Data  
 Data Preprocessing and Label Encoding  
 Model Building and Evaluvation  
 
