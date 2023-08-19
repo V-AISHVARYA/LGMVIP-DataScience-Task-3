@@ -1,5 +1,6 @@
 #**LGMVIP-DataScience-Task-3**  
-**MUSIC RECOMMENDATION SYSTEM**  
+**MUSIC RECOMMENDATION SYSTEM🎵🎶** 
+
 This repository contains a simple music recommendation system implemented in Python. The recommendation system suggests songs to users based on their preferred music genres. It utilizes a content-based filtering approach to provide personalized recommendations.    
 
 
